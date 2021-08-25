@@ -18,11 +18,11 @@ The numbers are the same
 function createLoop(num1,num2){
 	
 	if (num1 === num2) {
-		console.log('The numbers are the same');
+		return('The numbers are the same');
 	}
 
-	else if (num1 > num2){
-		console.log('Please make sure the 1st number is lower then the 2nd number');	
+	if (num1 > num2){
+		return('Please make sure the 1st number is lower then the 2nd number');	
 	}
 
 
