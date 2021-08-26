@@ -31,12 +31,3 @@ function createLoop(num1,num2){
 	
 
 }
-
-
-// function createLoop(a,b){
-	//if(b>a){
-	//for(let i=b;i>=a;i--){console.log(i);}
-	//}
-	//else if(a==b){console.log("The numbers are the same");}
-	//else{console.log("Please make sure that the 1st number is lower than the 2nd");}
-//}
